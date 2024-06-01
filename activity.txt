@@ -453,3 +453,4 @@ Pattern 2024-05-29
 Pattern 2024-05-30
 Pattern 2024-05-31
 Pattern 2024-05-31
+Pattern 2024-06-01
